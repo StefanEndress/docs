@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "Vue Equipment",
   "colors": {
     "primary": "#16A34A",
@@ -58,7 +58,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Magic as a Service™",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
